@@ -2,7 +2,7 @@
 
 Archimedes is a backend platform focused on automating and centralizing commercial operations for small businesses.
 The project was inspired by real operational challenges, replacing informal workflows such as spreadsheets, messaging apps, and manual order tracking with a scalable and structured system capable of supporting business growth.
-The main goal of Azalea is to centralize commercial processes into a single workflow, making order management, customer organization, and operational control more efficient and reliable.
+The main goal of Archimedes is to centralize commercial processes into a single workflow, making order management, customer organization, and operational control more efficient and reliable.
 
 ## 🚀 Current Features
 - Create, update, and manage orders
@@ -18,7 +18,7 @@ The main goal of Azalea is to centralize commercial processes into a single work
 - Git & GitHub
 
 ## 📌 Project Status
-🚧 Azalea is currently under development.
+🚧 Archimedes is currently under development.
 
 This project is also part of my backend engineering learning journey, where I apply concepts related to API development, software architecture, database modeling, and scalable backend design in a real-world inspired scenario.
 
